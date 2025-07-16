@@ -22,9 +22,9 @@ text.location_of_i(word)
 # Task3 : Write a program that generate a multiplication table from 1 to the number passed
 x = input('Enter Number')
 x=int(x)
-mt.multitablefrom1()
+mt.multitable_from1(x)
 
 ################################################
 
 # Task4 : Write a program that build a Mario pyramid like below
-mario.mariopyramid()
+mario.mariopyramids()
