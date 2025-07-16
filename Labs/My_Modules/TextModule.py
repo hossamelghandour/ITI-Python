@@ -11,4 +11,4 @@ def count_vowels(word):
 def location_of_i(word):
     for i in range(len(word)):
         if word[i] == 'i':
-            print(i)
+            print(f'i in index No. {i}')
